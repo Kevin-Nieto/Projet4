@@ -344,6 +344,8 @@ a:hover {
 .navbar-toggle {
     margin: 10px 10px 0 0;
     border: 0px;
+    padding-right: 12px;
+    padding-bottom: 25px;
 }
 
 .navbar-toggle:hover {
@@ -681,7 +683,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 .ajout
 {
@@ -708,7 +710,7 @@ p {
     margin-top: 22px;
     color: #FFFFFF!important;
     text-transform: uppercase;
-    padding: 12px 28px 12px 28px;
+    padding: 13px 28px 13px 28px;
     font-size: 16px;
     font-weight: 700;
 }
@@ -790,7 +792,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #4295f5;
+    background-color: #7C9BF5;
 }
 
 .tc-white {
@@ -798,7 +800,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #4295f5;
+    background: #7C9BF5;
     color: #FFFFFF!important;
 }
 
